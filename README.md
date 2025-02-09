@@ -1,6 +1,6 @@
 My name is Henry Almeida
 
-https://www.inkedin.com/in/henrique-almeida-ads/)/ 
+[Meu Linkedin] https://www.inkedin.com/in/henrique-almeida-ads/)/
 
 (Software Developer | HTML | CSS | JavaScript | SQL Server | C# | ASP. NET Core | Golang) 🚀
 
