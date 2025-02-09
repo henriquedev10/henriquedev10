@@ -1,12 +1,12 @@
-My name is Henry Almeida
+💻 My name is Henry Almeida i am Software Developer 💻
 
-[Meu Linkedin](https://www.inkedin.com/in/henrique-almeida-ads/)
+💼 [Meu Linkedin](https://www.inkedin.com/in/henrique-almeida-ads/) 💼
 
 
-(Software Developer | HTML | CSS | JavaScript | SQL Server | C# | ASP. NET Core | Golang) 🚀
+🚀 ( HTML | CSS | JavaScript | SQL Server | C# | ASP. NET Core | Golang) 🚀
 
 🎓 Technology in Systems Analysis and Development 🎓
 
-📫 How to reach me: henriquealves592@gmail.com;
+📫 How to reach me: henriquealves592@gmail.com; 📫 
 
 💡 Focus on agile development and clean code 💡
