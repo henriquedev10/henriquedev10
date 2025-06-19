@@ -3,7 +3,7 @@
 💼 [Meu Linkedin](https://www.linkedin.com/in/henrique-almeida-ads) 💼
 
 
-🚀 Java (Spring Boot) | Python | C# (.NET) | React, Next.js, Tailwind CSS | HTML | CSS | JavaScript | SQL Server | ASP. 🚀
+🚀 Java | Python | C# | React, Next.js, Tailwind CSS | HTML | CSS | JavaScript | SQL Server | ASP. 🚀
 
 🎓 Technology in Systems Analysis and Development 🎓
 
